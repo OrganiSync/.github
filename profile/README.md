@@ -50,8 +50,6 @@ ur solution, OrganiSync Enhancing Technological Capacity and Quality of Student 
 ---
 
 
-##  **Authors*
-
 
 
 
