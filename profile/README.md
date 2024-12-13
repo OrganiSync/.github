@@ -46,7 +46,7 @@ ur solution, OrganiSync Enhancing Technological Capacity and Quality of Student 
   
 - **Javascript** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50"/>  
 
-- **PHP** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" width="50"/>  
+- **Kotlin** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJamoBwdBEXcCREfK-T7FhLUXRkD-pFiS3iA&s" width="70"/>  
 ---
 
 
